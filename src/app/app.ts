@@ -14,6 +14,17 @@ import { LanguageService, Language } from './language';
 export class App {
   langService = inject(LanguageService);
 
+  constructor() {
+    // Hide the initial loader when the app is initialized
+    const loader = document.getElementById('initial-loader');
+    if (loader) {
+      loader.style.opacity = '0';
+      setTimeout(() => {
+        loader.remove();
+      }, 500);
+    }
+  }
+
   images = [
     'https://storage.googleapis.com/m-infra.appspot.com/v/ais-dev-74fvbuzkc4evbzkpw3cgxo-405262506133.asia-east1.run.app/1741021880479_0.png',
     'https://storage.googleapis.com/m-infra.appspot.com/v/ais-dev-74fvbuzkc4evbzkpw3cgxo-405262506133.asia-east1.run.app/1741021880479_5.png',

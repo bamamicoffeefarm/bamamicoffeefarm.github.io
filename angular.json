@@ -22,8 +22,11 @@
             "define": {
               "GEMINI_API_KEY": "'YOUR_GEMINI_API_KEY'"
             },
+            "outputPath": {
+              "base": "docs",
+              "browser": ""
+            },
             "browser": "src/main.ts",
-            "index": "index.html",
             "tsConfig": "tsconfig.app.json",
             "assets": [
               {
@@ -35,6 +38,7 @@
               "src/styles.css"
             ],
             "server": "src/main.server.ts",
+            "outputMode": "static",
             "ssr": {
               "entry": "src/server.ts"
             }

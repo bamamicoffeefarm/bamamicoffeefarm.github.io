@@ -26,16 +26,16 @@ export class App {
   }
 
   images = [
-    'https://storage.googleapis.com/m-infra.appspot.com/v/ais-dev-74fvbuzkc4evbzkpw3cgxo-405262506133.asia-east1.run.app/1741021880479_0.png',
-    'https://storage.googleapis.com/m-infra.appspot.com/v/ais-dev-74fvbuzkc4evbzkpw3cgxo-405262506133.asia-east1.run.app/1741021880479_5.png',
-    'https://storage.googleapis.com/m-infra.appspot.com/v/ais-dev-74fvbuzkc4evbzkpw3cgxo-405262506133.asia-east1.run.app/1741021880479_1.png',
-    'https://storage.googleapis.com/m-infra.appspot.com/v/ais-dev-74fvbuzkc4evbzkpw3cgxo-405262506133.asia-east1.run.app/1741021880479_2.png',
-    'https://storage.googleapis.com/m-infra.appspot.com/v/ais-dev-74fvbuzkc4evbzkpw3cgxo-405262506133.asia-east1.run.app/1741021880479_4.png',
-    'https://storage.googleapis.com/m-infra.appspot.com/v/ais-dev-74fvbuzkc4evbzkpw3cgxo-405262506133.asia-east1.run.app/1741021880479_3.png',
-    'https://storage.googleapis.com/m-infra.appspot.com/v/ais-dev-74fvbuzkc4evbzkpw3cgxo-405262506133.asia-east1.run.app/1741021880479_6.png',
-    'https://storage.googleapis.com/m-infra.appspot.com/v/ais-dev-74fvbuzkc4evbzkpw3cgxo-405262506133.asia-east1.run.app/1741021880479_3.png',
-    'https://storage.googleapis.com/m-infra.appspot.com/v/ais-dev-74fvbuzkc4evbzkpw3cgxo-405262506133.asia-east1.run.app/1741021880479_7.png',
-    'https://storage.googleapis.com/m-infra.appspot.com/v/ais-dev-74fvbuzkc4evbzkpw3cgxo-405262506133.asia-east1.run.app/1741021880479_8.png'
+    'https://drive.google.com/uc?export=view&id=1UCATiFnS_niRS_NiZWwY9mtfKcmKNl2x',
+    'https://drive.google.com/uc?export=view&id=1V9EDOPMlqLrVkUVLJQovd7OqUiqaRnTY',
+    'https://drive.google.com/uc?export=view&id=1Y-edHAeNOLGFE3RwklIB8Fa-sax03EUt',
+    'https://drive.google.com/uc?export=view&id=1pP0dN-WU-WSp0S4nxPdC35MTAIkFEPuw',
+    'https://drive.google.com/uc?export=view&id=1Kk8J_czUsCI4KkYtjUFsOKdxcAqVddAQ',
+    'https://drive.google.com/uc?export=view&id=1QwkuOD6ZhBFat8QVpk_-QVvm6NPibwZC',
+    'https://drive.google.com/uc?export=view&id=13OiawCigdUzwXPGnTqNmBat-ypmzjJ0Y',
+    'https://drive.google.com/uc?export=view&id=1QwkuOD6ZhBFat8QVpk_-QVvm6NPibwZC',
+    'https://drive.google.com/uc?export=view&id=13OiawCigdUzwXPGnTqNmBat-ypmzjJ0Y',
+    'https://drive.google.com/uc?export=view&id=118dL5PVkIb04lOEk3v-yQZfJXxoDT3EV'
   ];
 
   t(en: string, vi: string) {

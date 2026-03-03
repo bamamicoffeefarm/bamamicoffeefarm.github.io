@@ -58,7 +58,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/ai-studio-angular-app/"
+              "baseHref": "/"
             },
             "development": {
               "optimization": false,

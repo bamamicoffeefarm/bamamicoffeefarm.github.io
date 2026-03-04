@@ -26,16 +26,16 @@ export class App {
   }
 
   images = [
+    'https://lh3.googleusercontent.com/d/1Y-edHAeNOLGFE3RwklIB8Fa-sax03EUt',
+    'https://lh3.googleusercontent.com/d/1V9EDOPMlqLrVkUVLJQovd7OqUiqaRnTY',
     'https://lh3.googleusercontent.com/d/1UCATiFnS_niRS_NiZWwY9mtfKcmKNl2x',
     'https://lh3.googleusercontent.com/d/1V9EDOPMlqLrVkUVLJQovd7OqUiqaRnTY',
-    'https://lh3.googleusercontent.com/d/1Y-edHAeNOLGFE3RwklIB8Fa-sax03EUt',
-    'https://lh3.googleusercontent.com/d/1pP0dN-WU-WSp0S4nxPdC35MTAIkFEPuw',
     'https://lh3.googleusercontent.com/d/1Kk8J_czUsCI4KkYtjUFsOKdxcAqVddAQ',
     'https://lh3.googleusercontent.com/d/1QwkuOD6ZhBFat8QVpk_-QVvm6NPibwZC',
     'https://lh3.googleusercontent.com/d/13OiawCigdUzwXPGnTqNmBat-ypmzjJ0Y',
-    'https://lh3.googleusercontent.com/d/1QwkuOD6ZhBFat8QVpk_-QVvm6NPibwZC',
+    'https://lh3.googleusercontent.com/d/1V9EDOPMlqLrVkUVLJQovd7OqUiqaRnTY',
     'https://lh3.googleusercontent.com/d/13OiawCigdUzwXPGnTqNmBat-ypmzjJ0Y',
-    'https://lh3.googleusercontent.com/d/118dL5PVkIb04lOEk3v-yQZfJXxoDT3EV'
+    'https://lh3.googleusercontent.com/d/1UCATiFnS_niRS_NiZWwY9mtfKcmKNl2x'
   ];
 
   t(en: string, vi: string) {

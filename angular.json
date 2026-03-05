@@ -23,10 +23,10 @@
               "GEMINI_API_KEY": "'YOUR_GEMINI_API_KEY'"
             },
             "outputPath": {
-              "base": "docs",
+              "base": ".",
               "browser": ""
             },
-            "deleteOutputPath": true,
+            "deleteOutputPath": false,
             "browser": "src/main.ts",
             "tsConfig": "tsconfig.app.json",
             "ssr": false,
@@ -56,7 +56,7 @@
                 }
               ],
               "outputHashing": "none",
-              "baseHref": "./",
+              "baseHref": "/",
               "optimization": {
                 "scripts": true,
                 "styles": {
